@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll.config
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.pdb
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb
