@@ -1,0 +1,9 @@
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Users\Kirin\source\repos\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
