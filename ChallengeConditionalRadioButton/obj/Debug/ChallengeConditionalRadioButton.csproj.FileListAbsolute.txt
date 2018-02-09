@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\bin\ChallengeConditionalRadioButton.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\bin\ChallengeConditionalRadioButton.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\bin\ChallengeConditionalRadioButton.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\obj\Debug\ChallengeConditionalRadioButton.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\obj\Debug\ChallengeConditionalRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\obj\Debug\ChallengeConditionalRadioButton.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeConditionalRadioButton\ChallengeConditionalRadioButton\obj\Debug\ChallengeConditionalRadioButton.pdb
