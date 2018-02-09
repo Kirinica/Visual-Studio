@@ -1,9 +1,0 @@
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
-C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
