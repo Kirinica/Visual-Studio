@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb
