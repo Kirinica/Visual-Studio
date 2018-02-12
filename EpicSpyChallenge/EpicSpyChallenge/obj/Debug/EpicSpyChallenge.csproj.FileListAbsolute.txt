@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\bin\EpicSpyChallenge.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\EpicSpyChallenge\EpicSpyChallenge\obj\Debug\EpicSpyChallenge.pdb
