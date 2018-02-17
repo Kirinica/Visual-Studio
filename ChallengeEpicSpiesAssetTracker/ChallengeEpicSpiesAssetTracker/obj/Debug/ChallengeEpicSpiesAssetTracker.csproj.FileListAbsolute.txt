@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\ChallengeEpicSpiesAssetTracker.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker\obj\Debug\ChallengeEpicSpiesAssetTracker.pdb
