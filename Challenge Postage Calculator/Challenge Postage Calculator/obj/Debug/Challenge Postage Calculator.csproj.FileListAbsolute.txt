@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\bin\Challenge Postage Calculator.dll.config
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\bin\Challenge Postage Calculator.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\bin\Challenge Postage Calculator.pdb
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\obj\Debug\Challenge Postage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\obj\Debug\Challenge Postage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\obj\Debug\Challenge Postage Calculator.dll
+C:\Users\Kirin\Documents\Visual Studio 2017\Projects\Challenge Postage Calculator\Challenge Postage Calculator\obj\Debug\Challenge Postage Calculator.pdb
