@@ -1,0 +1,9 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\bin\ChallengeHeroMonsterClasses.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\bin\ChallengeHeroMonsterClasses.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\bin\ChallengeHeroMonsterClasses.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\obj\Debug\ChallengeHeroMonsterClasses.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\obj\Debug\ChallengeHeroMonsterClasses.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\obj\Debug\ChallengeHeroMonsterClasses.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeHeroMonsterClasses\ChallengeHeroMonsterClasses\obj\Debug\ChallengeHeroMonsterClasses.pdb
