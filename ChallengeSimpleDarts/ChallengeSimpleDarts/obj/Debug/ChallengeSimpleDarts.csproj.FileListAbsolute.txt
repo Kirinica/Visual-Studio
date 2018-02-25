@@ -1,0 +1,2 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csproj.CoreCompileInputs.cache
