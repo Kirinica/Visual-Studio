@@ -1,0 +1,9 @@
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\Kirin\source\repos\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
