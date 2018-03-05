@@ -1,0 +1,6 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\bin\Debug\Darts.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\bin\Debug\Darts.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\obj\Debug\Darts.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\Darts\obj\Debug\Darts.pdb
