@@ -1,0 +1,11 @@
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\obj\Debug\ChallengeSimpleDartsReboot.csprojResolveAssemblyReference.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\obj\Debug\ChallengeSimpleDartsReboot.csproj.CoreCompileInputs.cache
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\ChallengeSimpleDartsReboot.dll.config
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\ChallengeSimpleDartsReboot.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\ChallengeSimpleDartsReboot.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\Darts.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\Darts.pdb
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\obj\Debug\ChallengeSimpleDartsReboot.dll
+C:\Users\Kirin\Documents\Programs\Visual Studio 2017\ChallengeSimpleDartsReboot\ChallengeSimpleDartsReboot\obj\Debug\ChallengeSimpleDartsReboot.pdb
