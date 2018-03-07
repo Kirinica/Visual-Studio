@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -49,16 +49,16 @@ namespace ChallengeSimpleDartsReboot
                 _player2.Name, 
                 _player2.Score);
 
-            return result += "Winner: " + (_player1.Score > _player2.Score ? _player1.Name : _player2.Name);
+            return result += "</br>Winner: " + (_player1.Score > _player2.Score ? _player1.Name : _player2.Name);
         }
 
-        private void playRound(Player player)
+        private void playRound(Player playerName)
         {
             for (int i = 0; i < 3; i++)
             {
                 Dart dart = new Dart(_random);
                 dart.Throw();
-                Score.ScoreDart(player, dart);
+                Score.ScoreDart(playerName, dart);
             }
         }
     }
