@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,7 +16,7 @@ namespace ChallengeSimpleDartsReboot
 
         protected void okButton_Click(object sender, EventArgs e)
         {
-            Game game = new Game("Player1, Player2");
+            Game game = new Game("Player1", "Player2");
             string result = game.Play();
             resultLabel.Text = result;
         }
